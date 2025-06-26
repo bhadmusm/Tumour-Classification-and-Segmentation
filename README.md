@@ -8,3 +8,4 @@ It includes a classification model for predicting tumour types with CNNs & data 
 
 Both models were trained with specific optimizers and evaluation metrics.
 
+![Alt text](https://github.com/bhadmusm/Tumour-Classification-and-Segmentation/blob/main/sampleimg.png) 
